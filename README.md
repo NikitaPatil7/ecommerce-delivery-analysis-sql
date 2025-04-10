@@ -13,7 +13,7 @@ This project focuses on data analysis of an e-commerce delivery dataset using **
 |--------------------------------------|----------------------------------------------------------|
 | `Delivery Dataset.csv`               | Raw dataset containing delivery records                  |
 | `ecommerce_delivery_analysis.sql`    | SQL queries for data exploration and insights            |
-| `ecommerce_delivery_analysis_output.docx` | Screenshots & results of SQL queries with brief analysis |
+| `ecommerce_delivery_analysis_output.pdf` | Screenshots & results of SQL queries with brief analysis |
 
 ---
 
